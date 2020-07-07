@@ -74,7 +74,7 @@ function superbowlWin(arr){
     }
   })
   let year = newarr.find((year) => {
-    if(year === "1996"){
+    if(year === "1969"){
       return year;
     }
   })
